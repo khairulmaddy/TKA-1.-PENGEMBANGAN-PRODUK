@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Ujian Kuis PKK",
+  "description": "Aplikasi kuis dan evaluasi interaktif Produk Kreatif dan Kewirausahaan dengan fitur rekap admin Excel, stopwatch, dan manajemen percobaan siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
